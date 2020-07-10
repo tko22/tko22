@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Tim! I like building things 😃
+
+
+#### ☕️ Get in touch
+- My Blog [https://medium.com/@timmykko](https://medium.com/@timmykko)
+- Personal Website [https://timothyko.org](https://timothyko.org)
+- Linkedin [https://www.linkedin.com/in/timothy-ko/](https://www.linkedin.com/in/timothy-ko/)
